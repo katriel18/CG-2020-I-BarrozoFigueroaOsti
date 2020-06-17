@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : Program 1, Drawing my first Window
-// Professor   : Herminio Paucar
-// Version     :
+
+// Editado por   : Barrozo figueroa Osti Katriel
 
 // Description : Display my first Context and Windows
 //============================================================================
